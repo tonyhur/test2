@@ -1,4 +1,7 @@
 (* ein triviales Interface für den Calculator1 *)
+
+(* ein Kommentar *)
+
 unit Calc1;
 interface
 
